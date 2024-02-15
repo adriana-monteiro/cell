@@ -5,7 +5,7 @@ This is a project made for the Deep Learning course of the Master's in Data Scie
 ## Key Project Components:
 The project is divided in different jupyter notebooks:
 1. Data Exploration ([explore.ipynb](https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/explore.ipynb))
-   * Analysis of images from each class, duplicates, ...;
+   * Analysis of images from each class, duplicates, etc.;
 2. Data Preprocessing ([preprocessing.ipynb](https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/preprocessing.ipynb))
    * Data Augmentation;
    * Image Transformations;
