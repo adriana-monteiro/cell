@@ -8,7 +8,7 @@ The project is divided in different notebooks:
 3. Data Preprocessing ([preprocessing.ipynb](https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/preprocessing.ipynb))
 4. Model Handcrafting ([model handcrafted.ipynb](https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/model%20handcrafted.ipynb))
 5. Model Hyper Search ([model hyper search.ipynb](https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/model%20hyper%20search.ipynb))
-6. Transfer Learning  ([model handcrafted.ipynb(https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/transfer.ipynb)]
+6. Transfer Learning  ([model handcrafted.ipynb](https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/transfer.ipynb))
 7. Other optional techniques ([optional_1.ipynb](https://github.com/adriana-monteiro/cell-cancer-classification/blob/main/notebooks/optional_1.ipynb))
 
 ### Group Members:
