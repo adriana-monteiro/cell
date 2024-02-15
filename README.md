@@ -1,6 +1,6 @@
 # Cancer Blood Cell Classification: A Deep Learning Project
 
-This is a project made for the Deep Learning course of the Master's in Data Science and Advanced Analytics of NOVA IMS. The objective was to use deep learning techniques to solve a supervised machine learning problem. The chosen problem was an image classification task of blood cell cancer (details in [here](https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class)). All code was done in a Google Colab environment.
+This is a project made for the Deep Learning course of the Master's in Data Science and Advanced Analytics of NOVA IMS. The objective was to use deep learning techniques to solve a supervised machine learning problem. The chosen problem was an image classification task of blood cell cancer detection (details in [here](https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class)). All code was done in a Google Colab environment.
 
 ## Key Project Components:
 The project is divided in different jupyter notebooks:
